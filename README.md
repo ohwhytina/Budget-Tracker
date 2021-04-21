@@ -15,6 +15,8 @@ Website to track your budget online and offline anytime anywhere.
 ## Installation
 clone or download files. 'npm install' and then 'npm start'
 
+![img](https://raw.githubusercontent.com/ohwhytina/Budget-tracker/main/img/Screenshot.png)
+
 ## Usage
 npm install express compression mongoose morgan; MONGODB
 
