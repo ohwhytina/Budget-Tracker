@@ -12,6 +12,8 @@
 ## Description 
 Website to track your budget online and offline anytime anywhere.
 
+Deployed App: https://dashboard.heroku.com/apps/tina-budget-tracker/settings
+
 ## Installation
 clone or download files. 'npm install' and then 'npm start'
 
